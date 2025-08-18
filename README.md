@@ -1,1 +1,1 @@
-[![](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=paperlist%20for%20medical%20MLLM&fontSize=50)](#top)
+[![](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,65:4F46E5,100:22D3EE&text=paperlist%20for%20medical%20MLLM&fontSize=50)](#top)
