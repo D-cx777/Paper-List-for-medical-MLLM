@@ -14,6 +14,7 @@ MedPLIB：全球首个像素级医学多模态大模型，精准定位病灶，�
   - Intro (EN):  
 MedPLIB: The world's first pixel-level medical multimodal large model, enabling precise lesion localization. It pioneers a novel Mixture of Experts (MoE) multi-stage training strategy and has developed the MeCoVQA dataset comprising 310,000 data entries.
 
-<img width="1245" height="495" alt="image" src="https://github.com/user-attachments/assets/0d73a726-2e61-4ebd-9641-2d0a81ad4606" />
+<img width="1245" height="495" alt="image" src="picture/MedPLIB_1.png" />
+<img width="1245" height="495" alt="image" src="picture/MedPLIB_2.png" />
 
 
