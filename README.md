@@ -6,6 +6,7 @@
 
 </div>
 
+**🦉 Contributors: [Junjie Yang ( SCUT Undergraduate)](https://github.com/yangjj007), [Zixu Li ( HHU Undergraduate)](https://github.com/lzx060506), [Qiwei Yang ( WHU Undergraduate)](https://github.com/Archie9201), [Jingwen Chen ( ZUFE Postgraduate)](https://github.com/Ednaqvq), [Haoxuan Sun ( SMU Undergraduate)](https://github.com/burningcotton), [Chenxin Di ( ZUFE Postgraduate)](https://github.com/D-cx777)**
 
 - [[2025-AAAI]](https://arxiv.org/pdf/2412.09278v2) **Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine**
   - 简介（中文）:  
@@ -15,4 +16,4 @@ MedPLIB: The world's first pixel-level medical multimodal large model, enabling 
 
 <img width="1245" height="495" alt="image" src="https://github.com/user-attachments/assets/0d73a726-2e61-4ebd-9641-2d0a81ad4606" />
 
-**🦉 Contributors: [Junjie Yang ( SCUT Undergraduate)](https://github.com/yangjj007), [Zixu Li ( HHU Undergraduate)](https://github.com/lzx060506), [Qiwei Yang ( WHU Undergraduate)](https://github.com/Archie9201), [Jingwen Chen ( ZUFE Postgraduate)](https://github.com/Ednaqvq), [Haoxuan Sun ( SMU Undergraduate)](https://github.com/burningcotton), [Chenxin Di ( ZUFE Postgraduate)](https://github.com/D-cx777)**
+
